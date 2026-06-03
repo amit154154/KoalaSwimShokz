@@ -1,5 +1,6 @@
 # KoalaSwiming Shokz Playlist
 
+What happen when a lazy vibe coder starting to swim? A lazy pepole app to swim with music!
 KoalaSwiming Shokz Playlist is a small native macOS app for managing music on Shokz swim headphones that behave like a simple USB music player. Instead of manually deleting and copying MP3s, you keep playlist folders on your Mac and choose which one to sync when the headphones are connected.
 
 ![KoalaSwiming Shokz Playlist screenshot](assets/app_screenshot.png)
