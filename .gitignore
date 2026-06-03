@@ -1,0 +1,24 @@
+*.log
+*.tmp
+.DS_Store
+.swift-module-cache/
+build/
+dist/
+*.app/
+
+# Local playlists can contain personal music. Keep only folder placeholders in git.
+playlists/**
+!playlists/
+!playlists/.gitkeep
+!playlists/*/
+!playlists/*/.gitkeep
+
+# Runtime BPM cache is machine/local-library specific.
+playlist_analysis/*
+!playlist_analysis/
+!playlist_analysis/.gitkeep
+
+# User playlist cover art is personal by default.
+playlist_images/*
+!playlist_images/
+!playlist_images/.gitkeep
